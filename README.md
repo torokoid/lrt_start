@@ -127,6 +127,10 @@ width: 800px;
 <p>回覧板にて回覧のパンフ</p>
 <a href="20230813_001.JPG" data-lightbox="abc"><img src="20230813_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230813_002.JPG" data-lightbox="abc"><img src="20230813_002.JPG" alt="サンプル画像" width="900" /></a>
+<p>パンフ内のQRコードリンク</p>
+<a href="https://lightline-start.u-movenext.net" data-lightbox="abc">https://lightline-start.u-movenext.net</a>
+<a href="https://www.miyarail.co.jp" data-lightbox="abc">https://www.miyarail.co.jp</a>
+<a href="https://u-movenext.net" data-lightbox="abc">https://u-movenext.net</a>
 
 <br><br>
 <p>ショッピングセンターで配布されたパンフ</p>
