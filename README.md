@@ -128,8 +128,8 @@ width: 800px;
 <a href="20230813_001.JPG" data-lightbox="abc"><img src="20230813_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230813_002.JPG" data-lightbox="abc"><img src="20230813_002.JPG" alt="サンプル画像" width="900" /></a>
 <p>パンフ内のQRコードリンク</p><h2>
-<a href="https://lightline-start.u-movenext.net">https://lightline-start.u-movenext.net</a><br><br>
-<a href="https://www.miyarail.co.jp">https://www.miyarail.co.jp</a><br>
+<a href="https://lightline-start.u-movenext.net" target="_blank">https://lightline-start.u-movenext.net</a><br><br>
+<a href="https://www.miyarail.co.jp" target="_blank">https://www.miyarail.co.jp</a><br>
 </h2>
 
 <br><br>
@@ -137,7 +137,7 @@ width: 800px;
 <a href="20230813_003.JPG" data-lightbox="abc"><img src="20230813_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230813_004.JPG" data-lightbox="abc"><img src="20230813_004.JPG" alt="サンプル画像" width="900" /></a>
 <h2>
-<a href="https://u-movenext.net">https://u-movenext.net</a></h2><br>
+<a href="https://u-movenext.net" target="_blank">https://u-movenext.net</a></h2><br>
 
 <a href="20230813_005.JPG" data-lightbox="abc"><img src="20230813_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230813_006.JPG" data-lightbox="abc"><img src="20230813_006.JPG" alt="サンプル画像" width="900" /></a>
