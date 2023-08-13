@@ -141,6 +141,12 @@ width: 800px;
 
 <a href="20230813_005.JPG" data-lightbox="abc"><img src="20230813_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230813_006.JPG" data-lightbox="abc"><img src="20230813_006.JPG" alt="サンプル画像" width="900" /></a>
+<h2>
+<a href="https://u-movenext.net/learningset/" target="_blank">https://u-movenext.net/learningset/</a><br><br>
+<a href="https://u-movenext.net/dictionary/" target="_blank">https://u-movenext.net/dictionary/</a><br><br>
+<a href="https://u-movenext.net/about/#price" target="_blank">https://u-movenext.net/about/#price</a><br>
+</h2>
+
 
 <br><br><br><br><br><br><br><br><br>
 <!--流れ文字の挿入例
