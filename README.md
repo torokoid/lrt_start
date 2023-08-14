@@ -164,10 +164,7 @@ width: 800px;
 
 
 
-<!-- フッタ -->
-<footer>
-<span class="white">Copyright 2023/08/12 S.Hada、背景は自宅近くの紫陽花</span>
-</footer>
+
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
@@ -176,6 +173,12 @@ width: 800px;
 <script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script>
+
+
+<!-- フッタ -->
+<footer>
+<span class="white">Copyright 2023/08/12 S.Hada、背景は自宅近くの紫陽花</span>
+</footer>
 
 </body>
 
