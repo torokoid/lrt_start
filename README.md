@@ -163,8 +163,6 @@ width: 800px;
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<H2>訪問者数カウンター</H2>
-<IMG SRC="/cgi-bin/Count.cgi?df=s-taro.dat">
 
 <!-- フッタ -->
 <footer>
