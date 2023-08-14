@@ -177,8 +177,8 @@ width: 800px;
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script>
 
-
-
 </body>
 
 </html>
+
+
