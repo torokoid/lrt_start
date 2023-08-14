@@ -180,8 +180,6 @@ width: 800px;
 <span class="white">Copyright 2023/08/12 S.Hada、背景は自宅近くの紫陽花</span>
 </footer>
 
-</body>
 
-</html>
 
 
